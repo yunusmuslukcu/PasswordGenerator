@@ -61,6 +61,7 @@ input {
   border-radius: 20px;
   background: green;
   color: white;
+  cursor: pointer;
 }
 .passwordButton:hover {
   background: red;

@@ -26,5 +26,6 @@ function copyPassword() {
     setTimeout(() => {
       alertContainer.classList.add("active");
     }, 3000);
+  } else {
   }
 }
